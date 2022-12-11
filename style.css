@@ -1,0 +1,217 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.container{
+    width: 100%;
+    margin: auto;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    padding-left: 0px; 
+}
+.logo{
+    font-size: 20px;   
+    text-align: center;
+    padding-left: 10px;
+    margin-left: 45px;
+    display: flex;
+}
+.logo img{
+    width: 55px;
+}
+.logo h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(147, 147, 147);
+}
+.menu ul{
+    display: flex;
+    padding-right: 50px;
+    color: rgb(147, 147, 147);
+    margin-left: -530px;
+}
+.menu ul li{
+    list-style: none;
+    margin-right: 45px;
+}
+span{
+    color: rgb(215, 140, 0);
+}
+.hero{
+    position: absolute;
+    top: 505px;
+    left: 70px;
+    transform: translateY(-50%);
+    display: flex;
+}
+.hero h1{
+    color: rgb(5, 29, 125);
+    font-size: 75px;
+}
+.hero h2{
+    background-color: rgb(255, 153, 0);
+    margin: 30px 5px;
+    font-size: 15px;
+    color: rgb(255, 153, 0);
+    width: 75px;
+}
+.hero h3{
+    color: rgb(255, 153, 0);
+    margin: 30px 5px;
+    font-size: 25px;
+}    
+.hero ul li{
+    display: inline;
+    margin-right: 25px;
+}
+.hero ul li img{
+    width: 30px;
+}
+
+.foto img{
+    padding-left: 320px;
+    margin-top: -110px;
+    width: 400px;
+}
+.tulis{
+    position: left;
+    top: 500px;
+    margin-left: 200px;
+}
+.tulis h3{
+    color: rgb(5, 29, 125);
+    font-size: 30px;
+    line-height: 47px;
+    margin-bottom: 10px;
+}
+.tulis p{
+    color: rgb(147, 147, 147);
+    width: 370px;
+    font-size: 20px;
+    line-height: 28px;
+}
+.konten{
+    margin: 650px 0px 0px 70px;
+    padding-bottom: 50px;
+    background-color: rgb(68, 68, 75);
+    position: absolute;
+    border-radius: 20px;
+}
+.konten h1{
+    color: white;
+    margin: 10px 90px 0px 1010px;
+    font-size: 40px;
+    margin-left: 900px;
+    
+}    
+.konten h2{
+    margin: 150px 520px 0px 1090px;
+    font-size: 20px;
+    color: rgb(255, 153, 0);
+}
+.konten p{
+    color: white;
+    width: 750px;
+    font-size: 20px;
+    line-height: 35px;
+    margin-left: 900px;
+    margin-top: 30px;
+}
+.gambar img{
+    width: 700px;
+    margin-top: -500px;
+
+}
+.projek{
+    margin: 1650px 0px 0px 70px;
+    padding-bottom: 30px;
+    align-items: center;
+}
+.projek h2{
+    color: rgb(255, 153, 0);
+    font-size: 20px;
+    
+}
+.projek h1{
+    color: rgb(5, 29, 125);
+    font-size: 40px;
+    line-height: 90px;
+}
+.kotak{
+    display: flex;
+}
+.card{
+    background-color: rgb(68, 68, 75);
+    width: 520px;
+    height: 350px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 70px ;
+    color: rgb(255, 153, 0);
+}
+.card img{
+    width: 520px;
+    height: 300px;
+    border-radius: 5px;
+}
+.card2{
+    background-color: rgb(68, 68, 75);
+    width: 520px;
+    height: 350px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 70px ;
+    color: rgb(255, 153, 0);
+}
+.card2 img{
+    width: 520px;
+    height: 300px;
+    border-radius: 5px;
+}
+.card3{
+    background-color: rgb(68, 68, 75);
+    width: 520px;
+    height: 350px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 590px ;
+    margin-top: -333px;
+    color: rgb(255, 153, 0);
+}
+.card3 img{
+    width: 520px;
+    height: 300px;
+    border-radius: 5px;
+}
+.footer{
+    margin-top: 500px;
+    padding: 5% 730px;
+    margin-left: -1100px;
+    display: flex;
+}
+.footer img{
+    width: 30px;
+    padding: 10px 20px 10px 10px;
+    margin-left: 20px;
+}
+.penutup h3{
+    margin-top: 700px;
+    padding: 6px 500px;
+    margin-left: -1700px;
+    text-align: center;
+    color: rgb(5, 29, 125);
+    margin-top: 650px;
+}
+.garis h5{
+    background-color: black;
+    margin: 520px 60px 10px -1750px;
+    padding: -100px 1px;
+    text-align: center;
+}
+  
+
